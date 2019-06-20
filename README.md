@@ -5,7 +5,7 @@ How to install
 
 $ sudo apt-get install git
 
-$ git clone https://github.com/MrDoel/geolite-nmap.git
+$ git clone https://github.com/udibara/geolite-nmap.git
 
 $ cd geolite-nmap
 
